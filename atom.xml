@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kyesama.github.io/atom.xml" rel="self"/>
   <link href="http://kyesama.github.io/"/>
-  <updated>2014-07-27T17:31:02+09:00</updated>
+  <updated>2014-07-27T17:36:34+09:00</updated>
   <id>http://kyesama.github.io/</id>
   <author>
     <name><![CDATA[kyesama]]></name>
@@ -12,28 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[테스트페이지]]></title>
-    <link href="http://kyesama.github.io/blog/2014/07/27/teseuteupeiji/"/>
-    <updated>2014-07-27T16:55:27+09:00</updated>
-    <id>http://kyesama.github.io/blog/2014/07/27/teseuteupeiji</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[시험용 포스트 입니다]]></title>
-    <link href="http://kyesama.github.io/blog/2014/07/26/siheomyong-poseuteu-ibnida/"/>
-    <updated>2014-07-26T18:00:37+09:00</updated>
-    <id>http://kyesama.github.io/blog/2014/07/26/siheomyong-poseuteu-ibnida</id>
-    <content type="html"><![CDATA[<p><strong><em> 안녕하세요 </em></strong> 테스트 페이지 입니다.</p>
-
-<!-- more -->
-
-
-
-]]></content>
-  </entry>
   
 </feed>
